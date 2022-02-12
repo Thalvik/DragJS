@@ -82,7 +82,7 @@ the drag and drop will be allowed only between those items. For example, ```['or
 You will put those as single class in each element. Check example provided in ```example``` folder.
 Default ```[]```
 
-##Example
+## Example
 In ```example``` folder you have an HTML file with basic example.
 
 ## TODO
