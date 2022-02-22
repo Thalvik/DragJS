@@ -78,12 +78,12 @@ Default ```'lock-element'```
     checkSameClasses : []
 ```
 Specify classes as strings, for which the library will check if both source and target item contains. If so,
-the drag and drop will be allowed only between those items. For example, ```['orange', 'blue', 'yellow']``` .
-You will put those as single class in each element. Check example provided in ```example``` folder.
+the drag and drop will be allowed only between those items. For example, ```['orange', 'blue', 'yellow']```
+you will put those as single class in each element.
 Default ```[]```
 
 ## Example
-In ```example``` folder you have an HTML file with basic example.
+Check following GitHub page for example usage: https://thalvik.github.io/index.html
 
 ## TODO
 - Add linter
